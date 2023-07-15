@@ -7,3 +7,5 @@ En el presente trabajo se utilizaron:
 - Tablas de Hash
 - Arboles Binarios
 - Grafos
+
+Está hecho en Consola CLR, lenguaje C++ en Visual Studio 2019
